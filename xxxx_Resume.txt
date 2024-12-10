@@ -1,0 +1,42 @@
+
+    ================================
+               RESUME
+    ================================
+
+    Name: xxxx
+    Email: xxxxx
+    Phone: xxxxx
+    Address: xxxx
+
+    -----------------------------
+           Education
+    -----------------------------
+    Highest Qualification: xxxxx
+    University: xxxx
+    Year of Graduation: xxxx
+
+    -----------------------------
+         Work Experience
+    -----------------------------
+    Job Title: xxxx
+    Company: xxxx
+    Duration: xxxx
+    Responsibilities: xxx
+
+    -----------------------------
+             Skills
+    -----------------------------
+    xxx
+
+    -----------------------------
+            Projects
+    -----------------------------
+    xxx
+
+    -----------------------------
+          Achievements
+    -----------------------------
+    xxx
+
+    ================================
+    
